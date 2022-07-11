@@ -1,4 +1,9 @@
-### Hi there 👋
+## Olá, me chamo Guilherme ! 
+### Bem vindo ao meu perfil GitHub 👋
+
+- 🌱 Atualmente estou estudando análise e desenvolvimento de software
+- 👯 Gostaria de trabalhar em projetos open Source mas não sei por onde começar!
+- 📫 Você pode entrar em contato comigo através : guilherme1984.araujo@gmail.com
 
 <!--
 **Guilherme19884/Guilherme19884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
