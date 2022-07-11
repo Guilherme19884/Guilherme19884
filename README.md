@@ -1,8 +1,8 @@
 ## Olá, me chamo Guilherme ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou estudando análise e desenvolvimento de software
-- 👯 Gostaria de trabalhar em projetos open Source mas não sei por onde começar!
+- 🌱 Atualmente estou estudando análise e desenvolvimento de sistemas
+- 👯 Gostaria de trabalhar em projetos Open Source mas não sei por onde começar!
 - 📫 Você pode entrar em contato comigo através : guilherme1984.araujo@gmail.com
 
 <!--
